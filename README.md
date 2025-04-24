@@ -20,7 +20,7 @@ The app provides a step-by-step workflow through the following stages:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/data-analysis-pipeline.git
+git clone https://github.com/shivsharankumar/EDA.git
 cd data-analysis-pipeline
 
 # Create a virtual environment (optional but recommended)
